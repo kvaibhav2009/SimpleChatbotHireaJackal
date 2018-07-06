@@ -1,0 +1,129 @@
+Athabasca University (AU) is a Canadian university specializing in online distance education and one of four comprehensive academic and research universities in Alberta. Founded in 1970, it was the first Canadian university to specialize in distance education.
+
+
+== Origins ==
+Athabasca University was created by the Alberta government in 1970. It was part of the expansion of the higher education system in Alberta at that time to cope with rising enrolment.
+In the late 1960s, the University of Alberta (U of A) had long been established, the University of Calgary was created after legislation had been changed, and an Order in Council had created the University of Lethbridge. In 1967, the Manning government announced its intention to establish a fourth public university, but this would be delayed by three years as the government considered different proposals. The U of A wanted to expand rather than see another university open in Edmonton to compete with it. One proposal favoured establishing a Christian university instead of a secular one. Another early suggestion was an "Alberta academy" that would take credits students had earned at multiple universities, evaluate them for transfer, and perhaps award degrees. A Department of Education ad hoc group favoured the establishment of a fourth public university.
+A group of U of A graduates including Preston Manning influenced the development of an independent fourth university. In 1970, Grant MacEwan, then the Lieutenant Governor of Alberta, established AU by an Order in Council. The name for the new university was a challenge, as it was not desired to associate the new university in a primarily rural province with a city (Edmonton) that already had a university (the U of A). Athabasca Hall, a student residence at the U of A, was scheduled for demolition, so the name was appropriated for the new Athabasca University.
+In 1984, AU moved its main campus in Edmonton 145 kilometres north to Athabasca. Today the main campus remains in Athabasca, and there are satellite locations in Calgary, Edmonton and St. Albert.
+In 1994, AU introduced the world’s first online Executive MBA program. Under the leadership of university president Dominique Abrioux (1995-2005) Athabasca expanded programs in all faculties including graduate studies with a new MA in Integrated Studies called MA-IS.
+
+
+=== Mandate ===
+
+The initial mandate for Athabasca University dictated that AU be primarily undergraduate in scope. Creating new procedures for curriculum development was also part of the mandate.
+AU's mandate was later revised to include graduate studies as well, and the university has offered graduate programs and courses since 1994.
+
+
+=== First president and early years ===
+In April 1971, Timothy C. Byrne was appointed the first president of Athabasca University, and he assumed office in June that year.
+The initial governing authority of the university had eight members as well as a broad range of powers to set up the new university. On July 2–3, 1970, they met for the first time, and Carl W. Clement was the first chair. It was expected by the government of the day that AU would have 10,000 students by 1979. September 1, 1973, was set as the target date to open.
+The AU administration chose the University of California, Santa Cruz, as its model, deciding that individual colleges should serve as the basic planning units for the new university, which would be organized as a federation of colleges. Each of the colleges was to have 650 students with corresponding lecture and office space. The learning approach would have students in small tutorials instead of large lectures. Research within the new university was to be limited to a specified region around the city of Edmonton. One criticism was that the university was trying to do too much.
+The government of Peter Lougheed in 1971 brought changes including a cabinet portfolio specifically for post-secondary education. The newly elected Conservative government was opposed to building a new university in Edmonton, but architectural plans were permitted to continue. A proposal was made to the government to test the new model for three to five years, and if it succeeded, AU would become a fully independent university. This happened under chair Merrill Wolfe. The proposal was accepted by the government.
+In the summer of 1972, the new deputy minister of Alberta Advanced Education stated there was a demand for lifelong continuing education. There was also a need for an "Alberta academy" that would evaluate university courses taken at multiple institutions and award degrees based on its evaluations. Meanwhile, AU also proposed to serve part-time students and made the case that this would not affect the traditional universities already established in Alberta or the new approach of AU. An open-door admissions policy removing most traditional university admission requirements was part of AU's proposal.
+In 1972, a new Order in Council was issued to include only a new pilot project for distance education.
+
+
+=== Piloting distance education ===
+Trial and error characterized the pilot period, as there was no similar model to follow for the mandate Athabasca University was given. In 1973, AU began to advertise for students to help with course development. World Ecology was the first course and the core of the pilot project. In-house production of the learning packages for courses was important to the staff, so the university developed its own printing process.
+In 1975, plans came together to reach out to students through field services tutors and regional learning resource centres. In 1976, the first part-time telephone tutors were appointed, 24 in total. The tutor role was to facilitate learning, not to teach the course. Tutors were assigned blocks of between 20 and 40 students each, and AU provided toll-free phone numbers that students used for contacting the tutors. All tutors were (and are still) required to have at least a master's degree.
+An early test project for a learning resource centre had books and tapes relevant to the courses available at branches of public libraries throughout Alberta. Although the libraries were keen on the idea, students preferred to remain in their homes to learn. By 1975, the median age was between 35 and 40, and there were 725 students. A minority of students had only completed Grade 9.
+In 1975 at the end of the pilot project, an agency was appointed to evaluate its success. A recommendation was made to the Alberta government that the university be made a permanent member of the province's university system. It was also to remain an open university. Under the chairmanship of Edward Checkland, the University gained permanency.
+In 1976, W. A. Samuel Smith took over as president, and the university's permanency was established through an act of the Legislature of Alberta.
+
+
+=== Early collaborations ===
+The first collaboration the university embarked on was with Keyano College, which eventually led to the opening of a regional learning office in Fort McMurray, Alberta. (This regional office would later close.) In 1976, North Island College took on the challenge of delivering many of AU's courses on its many campuses.
+
+In the mid-seventies, two young Canadians, one of whom was the son of a prominent Edmonton family, were indicted in an English court for attempting to smuggle drugs into the country. They were each sentenced to a lengthy prison term and incarcerated in one of England's most infamous prisons. Each registered in one of Athabasca University's first three courses, becoming the first two in a long list of prison inmates to join its student body.
+
+In 1985, AU reached an agreement with the Correctional Service of Canada for the payment of tuition and program delivery fees for federal inmates taking courses through the university.
+
+
+== Education delivery models ==
+
+The majority of Athabasca University's courses are taught through online distance education, but some courses or components of courses are taught in-person, face to face. The major education delivery models at AU are as follows:
+Individual study: Students are provided with the textbooks, computer software, and video material required. A preset recommended schedule comes with each course. Each course has a professor, as with any university course. This person publishes creates a series of learning activities, readings and assessments. That publication becomes additional reading and activity for the student. Assignments are submitted to the professor via email or more commonly via the Moodle assignment drop box. The final exam is administered at Athabasca's learning centres or a partner university, college or accredited individual. Students have up to six months to finish their course, unless they have received a student loan, in which case, they have up to four months. Courses start at the beginning of each month. Most courses are now augmented with additional resources and activities using the Moodle LMS
+Collaborative, online: Courses in the graduate programs are paced, usually beginning three times a year. The primary delivery platform is the Moodle Learning Management System, that is augmented by web conferencing using Adobe Connect and social networking using elgg-based Athabasca Landing
+Grouped study: Offered primarily to students physically in Alberta, this method allows students to get together with other students in the same course, and study in a manner similar to that of a regular university. Students studying in this method have up to four months to complete their course. Courses start in September and January.
+
+
+=== Centre for Distance Education ===
+In addition to delivering courses and programs primarily through online distance education, Athabasca University has a Centre for Distance Education (CDE). The CDE, led by a core faculty and supported by additional sessional instructors, offers graduate-level courses and programs that teach other educators how to develop, design and deliver online education. The CDE is home to North America's first online Doctor of Education in Distance Education, and it also offers a Master of Education in Distance Education and post-baccalaureate certificates and diplomas in distance education technology, instructional design, and technology-based learning.
+
+
+=== Distance education research ===
+AU also sponsors the publication of the International Review of Research in Open and Distance Learning, which is listed in the Social Sciences Citation Index and is a well-known and frequently cited scholarly journal in the field of distance and open education.
+
+
+== Accreditation ==
+Athabasca University reports to the government through the Minister of Advanced Education and is publicly funded through the Province of Alberta. The university's governing council is authorized to grant degrees through the Post-Secondary Learning Act along with governing its own affairs. Members of the governing council are appointed by the Lieutenant Governor in council.
+The university is accredited with the United States by the Commission on Higher Education of the Middle States Commission on Higher Education.
+
+
+=== Select memberships ===
+Association of Universities and Colleges of Canada
+Association of Commonwealth Universities
+Canadian Association for Graduate Studies
+Canadian Virtual University
+International Council for Open and Distance Education
+International Association of Universities
+University of the Arctic
+
+
+== Academics ==
+AU is Canada's only exclusively open university, and Maclean's Magazine called it Canada's fastest growing university. 50% of AU's students are between the ages of 25 and 44, and admissions are year-round. AU hosts three Canada Research Chairs. 260,000 students have taken courses since the University was founded.
+AU has 27,107 undergraduate students, with 77 undergraduate programs. Of that two are university diplomas, fourteen are university certificates and one is a certificate of completion.
+
+
+=== Research ===
+AU’s has five faculties: Business, Health Disciplines, Humanities and Social Sciences, Science and Technology, and Graduate Studies. AU spends over $2 million per year on research. The university has four Canada Research Chairs, one NSERC/Xerox/Markin/ICORE Research Chair and one of six UNESCO/COL Chairs. The Athabasca University Research Centre is the primary centre at the university, along with the Technology Enhanced Knowledge Research Institute and the Centre for World Indigenous Knowledge and Research. AU is also a participating member of the WestGrid Research Network.
+
+
+=== Notable faculty ===
+Martin Connors, Canada Research Chair, space science, discovered Trojan asteroid associated with planet Earth (2011)
+Joseph Pivato, professor, comparative literature and English, published nine books on ethnic minority writing in Canada
+Tracey Lindberg, Canada Research Chair, indigenous knowledge and law, many publications on social and legal questions
+George Siemens, assistant professor, distance education, theorist in distance education, creator of theory of Connectivism, leader in learning analytics
+
+
+== Scholarships and bursaries ==
+The Government of Canada sponsors an Aboriginal Bursaries Search Tool that lists over 680 scholarships, bursaries, and other incentives offered by governments, universities, and industry to support Aboriginal post-secondary participation. Athabasca University bursaries for Aboriginal, First Nations and Métis students include: Alberta Historical Resources Foundation; Syncrude Canada Ltd./Athabasca University Aboriginal Scholarship; Frank and Agnes Cardinal Neheyiwak Bursary; Harold Cardinal Essay Prize for Aboriginal Students; Canative Scholarship for Métis Students; AU President's Scholarship for a Blue Quills Student; First Peoples Technology Bursary
+
+
+== Notable people ==
+
+Some notable people have studied through Athabasca University, including Alberta politician Debby Carlson, Olympic bobsleigh racer Christian Farstad, former Alberta Premier Ralph Klein, professional hockey player Alyn McCauley, and cross-country skier Milaine Thériault. AU serves over 38,000 students (over 7,900 full-load equivalents) and offers over 900 courses in more than 50 undergraduate and graduate programs in a range of arts, science and professional disciplines.
+
+
+== Controversy ==
+In 2012, it was revealed that Athabasca University was one of the institutions of higher education involved in illegal donations to the provincial Progressive Conservative party of Alberta. The university spent $10,675 on Conservative fundraising events, including golf tournaments and dinners. The university president retired early and an interim president, Peter MacKinnon, was appointed by the university governing council.
+
+
+== Student representation ==
+
+
+=== Undergraduate students ===
+Undergraduate students at Athabasca University are represented by the Athabasca University Students' Union. The AUSU head office is in AU Edmonton, though the students' council may have elected members from any area where AU students reside.
+AUSU was officially incorporated as of July 16, 1992, and was formalized as a registered Alberta society until students' unions in Alberta were granted recognition under the Post-Secondary Learning Act. On 13 September 2004 the Lieutenant Governor of Alberta approved an order in council establishing "The Students' Association of Athabasca University".
+AUSU offers services to its members including but not limited to: student awards, a free subscription to lynda.com, a free Smart Draw license, student advocacy, and Athabasca University course evaluations. Student media at Athabasca University is provided by the official publication The Voice Magazine. Previously published on paper, the magazine since 2001 is published exclusively online in HTML and PDF format.
+
+
+=== Graduate students ===
+Visiting and program students at the graduate level are represented by the Athabasca University Graduate Students' Association. The organization was founded in 2010, and approved by the Alberta Advanced Education.
+
+
+== See also ==
+Higher education in Alberta
+List of universities in Canada
+
+
+== References ==
+
+
+== Further reading ==
+Small, Michael W. "A Case Study of Educational Policy-making: The Establishment of Athabasca University." Ph.D. diss., University of Alberta, 1980.
+
+
+== External links ==
+Official website

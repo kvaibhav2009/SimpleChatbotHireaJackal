@@ -1,0 +1,61 @@
+The forming–storming–norming–performing model of group development was first proposed by Bruce Tuckman in 1965, who said that these phases are all necessary and inevitable in order for the team to grow, face up to challenges, tackle problems, find solutions, plan work, and deliver results.
+
+
+== Group Development ==
+
+
+=== Forming ===
+The team meets and learns about the opportunities and challenges, and then agrees on goals and begins to tackle the tasks. Team members tend to behave quite independently. They may be motivated but are usually relatively uninformed of the issues and objectives of the team. Team members are usually on their best behavior but very focused on themselves. Mature team members begin to model appropriate behavior even at this early phase. The meeting environment also plays an important role to model the initial behavior of each individual. The major task functions also concern orientation. Members attempt to become oriented to the tasks as well as to one another. Discussion centers on defining the scope of the task, how to approach it, and similar concerns. To grow from this stage to the next, each member must relinquish the comfort of non-threatening topics and risk the possibility of conflict.
+
+
+=== Storming ===
+This is the second stage of team development where the group starts to sort itself out and gain each other’s trust. This stage often starts when they voice their opinions and as a result of this a conflict may arise between team members as power and status are assigned. When the group members start to work with each other they start to learn about individual working styles and what it’s like to work with each other as a team, it also identifies different hierarchy of status of positions in the group. At this stage there is a positive and polite atmosphere and people are pleasant to each other and they have different feelings of excitement, eagerness and positiveness and others may have feelings of suspicion, fear and anxiety. The leader of the team will then describe the tasks to the group, describe the different behaviours to the group and how to deal and handle complaints. In this stage "...participants form opinions about the character and integrity of the other participants and feel compelled to voice these opinions if they find someone shirking responsibility or attempting to dominate. Sometimes participants question the actions or decision of the leader as the expedition grows harder...". Disagreements and personality clashes must be resolved before the team can progress out of this stage, and so some teams may never emerge from "storming" or re-enter that phase if new challenges or disputes arise. In Tuckman's 1965 paper, only 50% of the studies identified a stage of intragroup conflict, and some of the remaining studies jumped directly from stage 1 to stage 3. Some groups may avoid the phase altogether, but for those who don't, the duration, intensity and destructiveness of the "storms" can be varied. Tolerance of each team member and their differences should be emphasized; without tolerance and patience the team will fail. This phase can become destructive to the team and will lower motivation if allowed to get out of control. Some teams will never develop past this stage; however, disagreements within the team can make members stronger, more versatile, and able to work more effectively as a team. Supervisors of the team during this phase may be more accessible, but tend to remain directive in their guidance of decision-making and professional behaviour. The team members will therefore resolve their differences and members will be able to participate with one another more comfortably. The ideal is that they will not feel that they are being judged, and will therefore share their opinions and views. Normally tension, struggle and sometimes arguments occur. This stage can also be upsetting.
+
+
+=== Norming ===
+"Resolved disagreements and personality clashes result in greater intimacy, and a spirit of co-operation emerges."  This happens when the team is aware of competition and they share a common goal. In this stage, all team members take the responsibility and have the ambition to work for the success of the team's goals. They start tolerating the whims and fancies of the other team members. They accept others as they are and make an effort to move on. The danger here is that members may be so focused on preventing conflict that they are reluctant to share controversial ideas.
+
+
+=== Performing ===
+"With group norms and roles established, group members focus on achieving common goals, often reaching an unexpectedly high level of success." By this time, they are motivated and knowledgeable. The team members are now competent, autonomous and able to handle the decision-making process without supervision. Dissent is expected and allowed as long as it is channelled through means acceptable to the team.
+Supervisors of the team during this phase are almost always participating. The team will make most of the necessary decisions. Even the most high-performing teams will revert to earlier stages in certain circumstances. Many long-standing teams go through these cycles many times as they react to changing circumstances. For example, a change in leadership may cause the team to revert to storming as the new people challenge the existing norms and dynamics of the team.
+
+
+== Further developments ==
+
+
+=== Adjourning and transforming and mourning ===
+In 1977, Tuckman, jointly with Mary Ann Jensen, added a fifth stage to the four stages: adjourning, that involves completing the task and breaking up the team (in some texts referred to as Mourning).
+
+
+=== Norming and re-norming ===
+Timothy Biggs suggested that an additional stage be added of Norming after Forming and renaming the traditional Norming stage Re-Norming. This addition is designed to reflect that there is a period after Forming where the performance of a team gradually improves and the interference of a leader content with that level of performance will prevent a team progressing through the Storming stage to true performance. This puts the emphasis back on the team and leader as the Storming stage must be actively engaged in order to succeed – too many 'diplomats' or 'peacemakers,' especially in a leadership role, may prevent the team from reaching their full potential.
+Rickards and Moger proposed a similar extension to the Tuckman model when a group breaks out of its norms through a process of creative problem-solving.
+
+
+=== John Fairhurst TPR model ===
+Alasdair A. K. White together with his colleague, John Fairhurst, examined Tuckman's development sequence when developing the White-Fairhurst TPR Model. They simplify the sequence and group the Forming-Storming-Norming stages together as the Transforming phase, which they equate with the initial performance level. This is then followed by a Performing phase that leads to a new performance level which they call the Reforming phase. Their work was developed further by White in his essay "From Comfort Zone to Performance Management" in which he demonstrates the linkage between Tuckman's work with that of Colin Carnall's "coping cycle" and the Comfort Zone Theory.
+
+
+=== Leadership strategies to facilitate successful team development ===
+A healthcare research study "Maximizing Team Performance: The Critical Role of the Nurse Leader" examined the role of nursing leaders in facilitating the development of high performing Change teams using the Tuckman Model of Group Development as a guiding framework. Using qualitative research techniques, these authors linked the team development stages to leadership strategies, as well as identified keys to leader success. Below are some examples from the article:
+
+
+=== Swarming ===
+In Agile software development, high-performance teams will exhibit a swarm behavior as they come together, collaborate, and focus on solving a single problem. Swarming is a sometime behavior, in contrast to Mob programming, which can be thought of as swarming all the time.
+
+
+== See also ==
+Group development
+Group dynamics
+High-performance teams
+
+
+== References ==
+
+
+== Further reading ==
+Tuckman, Bruce (1965). "Developmental sequence in small groups". Psychological Bulletin. 63 (6): 384–99. doi:10.1037/h0022100. PMID 14314073. Retrieved 2008-11-10. Reprinted with permission in Group Facilitation, Spring 2001 
+White, Alasdair A. K. "From Comfort Zone to Performance Management" 2009 White & MacLean Publishing ISBN 978-2-930583-01-3 [1]
+Blanchard, Ken and Parisi-Carew, Eunice, The One Minute Manager Builds High Performing Teams, William Morrow, 2009.'
+Manges, K., Scott‐Cawiezell, J., & Ward, M. M. (2016, May). Maximizing Team Performance: The Critical Role of the Nurse Leader. In Nursing forum.

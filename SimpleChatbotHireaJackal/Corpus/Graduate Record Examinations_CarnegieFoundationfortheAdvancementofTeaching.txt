@@ -1,0 +1,57 @@
+The Carnegie Foundation for the Advancement of Teaching (CFAT) is a U.S.-based education policy and research center. It was founded by Andrew Carnegie in 1905 and chartered in 1906 by an act of the United States Congress. Among its most notable accomplishments are the development of the Teachers Insurance and Annuity Association (TIAA), the Flexner Report on medical education, the Carnegie Unit, the Educational Testing Service, and the Carnegie Classification of Institutions of Higher Education.
+
+
+== History ==
+The foundation was founded by Andrew Carnegie in 1905 and chartered in 1906 by an act of the United States Congress under the leadership of its first president, Henry Pritchett. The foundation credits Pritchett with broadening their mission to include work in education policy and standards. John W. Gardner became president in 1955 while also serving as president of the Carnegie Corporation of New York. He was followed by Alan Pifer whose most notable accomplishment was the 1967 establishment of a task force with Clark Kerr at its helm.
+The foundation started the Graduate Record Examinations (GRE), initially as an experiment in 1936. It was acquired by the Educational Testing Service in 1948.
+In 1979, the Carnegie Foundation for the Advancement of Teaching separated from the Carnegie Corporation and came into its own with Ernest L. Boyer as president. Under his leadership, the foundation moved to Princeton, New Jersey, where it remained until 1997 when then-president Lee Shulman relocated it to Stanford, California.
+
+
+== Presidents ==
+Henry Smith Pritchett, 1906-1930
+Henry Suzzallo, 1930-1933
+Walter A. Jessup, 1933-1944
+Oliver Carmichael, 1945-1953
+John W. Gardner, 1955-1963
+Alan Pifer, 1965-1979
+Ernest L. Boyer, 1979-1995
+Lee Shulman, 1997-2008
+Anthony Bryk, 2008–present
+
+
+== 6 Improvement Science Principles ==
+The Carnegie Foundation for Advancement of Teaching promotes the use of improvement science as an approach to research that supports system reform. Improvement Science is a set of approaches designed to facilitate innovation and implementation of new organizational practices. Research scholar Catherine Langley’s framework builds-off of W. Edwards Deming’s plan-do-study-act cycle and couples it with three foundational questions:
+What are we trying to accomplish?
+How will we know that a change is an improvement?
+What change can we make that will result in improvement?
+Approaches may vary in design and structure, but are always rooted in research-practitioner partnerships. The Carnegie Foundation for the Advancement of Teaching outlines six principles for improvement on their website.
+Make the work problem-specific and user centered: The Carnegie Foundation adopted a "learning by doing orientation" recognizing that action along with reflection spurs learning. The purpose of the improvement work is to design, implement, evaluate, and refine practices, but why do this work alone when a network will "form a robust information infrastructure to inform continuous improvement."
+Variation in performance is the core problem to address: Improvement science treats variation differently than traditional, randomized controlled trials, the gold standard for research. Improvement science sees the variation of implementation settings as a key source of information and an important way to learn and inform redesign of interventions and the system.
+See the system that produces the current outcomes: Implementation is shaped by local organizational and system factors. So improvement science demands that work is made public in order to develop a collective knowledge of the practice and the organizational factors that were part of the implementation. In this way, a shared ownership of improvement is built across varied contexts.
+We cannot improve at scale what we cannot measure. Scale-up of a practice in the research field means to implement it with fidelity in new settings, but improvement science focuses on the integration of what is learned from studying implementation within a setting. Measurements are used to collect data prior to implementation to learn about the current system, about participants needs (both social and psychological), and establish baseline data to aid in measuring impact once improvement efforts begin. Then the organization needs a system in place to study processes and provide feedback in order to learn about and from improvement efforts, tailor them to participant needs, and test the practical theory of improvement.
+Anchor practice improvement in discipline inquiry: Plan-do-study-act cycles are used to study improvement efforts while engaging in remediation of problems. The cycles of improvement test to see if we implemented the practice as intended and if so, what impacts or effects it had on teacher and student practice(s).
+Accelerate improvements through networked communities: Educators have been working on implementing and adapting evidence-based practices for decades, however the improvement that are made through this isolated design process are often hidden or known as pockets of excellence with no mechanism to scale. Improvement efforts, when linked to networks, offer a supportive, innovative environment that allows participants to learn from testing, detect problems or patterns, and provide a social connection to accelerate knowledge production and dissemination.
+Carnegie researcher Paul LeMahieu and his colleagues have summarized these six principles as "three interdependent, overlapping, and highly recursive aspects of improvement work: problem definition, analysis and specification; iterative prototyping and testing...; and organizing as networks to...spread learning". Professional learning communities (PLCs) are increasing in popularity in education to promote problem solving and often align with many of these design principles. Researcher Anthony Bryk sees PLCs as a place to begin applying these principles, but also notes that PLC success is often isolated by teams or within schools and remains heavily dependent on the individual educators involved. A mechanism is needed to accumulate, detail, test, redesign knowledge in partnerships like PLCs so that it can be transformed and transferred as collective professional knowledge across diverse and complex settings.
+
+
+=== Networked Improvement Communities ===
+Networked Improvement Communities are another form of Improvement Science. Douglas Engelbart originally coined the term "Network Improvement Community" in relation to his work in the software and engineering field as network of human and technical resources to enable the community to get better at getting better. Anthony Bryk and his team have defined Networked Improvement Communities as social arrangements that involve individuals from many different contexts working together with a common interest in achieving common goals to surface and test new ideas across varied contexts to enhance design at scale. Douglas Engelbart sees three levels of human and technical resources that need to work together: on the ground practitioners, organizational level structures and resources to support the data collection and analysis of practitioners, and inter-institutional resources to share, adapt, and expand on information learned across varied contexts. In education, these communities are problem-centered and link academic research, clinical practice, and local expertise to focus on implementation and adaptation for context.
+
+
+== See also ==
+Abraham Flexner, lead author of the Flexner Report (1910), a seminal study of medical education in the United States and Canada
+Gunnar Myrdal, author of An American Dilemma (1944), a highly influential study of race relations in the United States
+The Goose-Step (1923), a book by Upton Sinclair criticizing the dominance of plutocrats in American higher education
+Carnegie Unit and Student Hour
+
+
+== References ==
+
+
+== Further reading ==
+CFAT archive at Columbia University
+Ellen Condliffe Lagemann, Private power for the public good : a history of the Carnegie Foundation for the Advancement of Teaching. With a new foreword by Lee S. Shulman, New York : College Entrance Examination Board, 1999 (Originally published: 1st ed. Middletown, Conn. : Wesleyan University Press, 1983)
+
+
+== External links ==
+Official website

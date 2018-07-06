@@ -1,0 +1,180 @@
+A style guide (or manual of style) is a set of standards for the writing and design of documents, either for general use or for a specific publication, organization, or field. (It is often called a style sheet, though that term has other meanings.)
+A style guide establishes and enforces style to improve communication. To do that, it ensures consistency within a document and across multiple documents and enforces best practice in usage and in language composition, visual composition, orthography and typography. For academic and technical documents, a guide may also enforce the best practice in ethics (such as authorship, research ethics, and disclosure), pedagogy (such as exposition and clarity), and compliance (technical and regulatory).
+Style guides are common for general and specialized use, for the general reading and writing audience, and for students and scholars of various academic disciplines, medicine, journalism, the law, government, business, and specific industries. House style refers to the internal style manual of a particular publisher or organization.
+
+
+== Varieties ==
+Style guides vary widely in scope and size.
+
+
+=== Sizes ===
+This variety in scope and length is enabled by the cascading of one style over another, in a way analogous to how styles cascade in web development and in desktop publishing (e.g., how inline styles in HTML cascade over CSS styles).
+A short style guide is often called a style sheet. A comprehensive guide tends to be long and is often called a style manual or manual of style (MOS or MoS). In many cases, a project such as one book, journal, or monograph series typically has a short style sheet that cascades over the somewhat larger style guide of an organization such as a publishing company, whose content is usually called house style. Most house styles, in turn, cascade over an industry-wide or profession-wide style manual that is even more comprehensive. Some examples of these industry style guides include the following:
+AP style for journalism and most forms of corporate communications
+USGPO style or AGPS style for government publications
+Oxford style and Chicago style for academic publishing and readership
+APA style and ASA style for the social sciences
+CSE style for various physical sciences
+ACS style for chemistry
+AMA style for medicine
+Bluebook style for law
+Finally, these reference works cascade over the orthographic norms of the language in use (for example, English orthography for English-language publications). This, of course, may be subject to national variety such as the different varieties of American English and British English.
+
+
+=== Topics ===
+Some style guides focus on specific topic areas such as graphic design, including typography. Website style guides cover a publication's visual and technical aspects along with text.
+Style guides that cover usage may suggest ways of describing people that avoid racism, sexism, and homophobia. Guides in specific scientific and technical fields cover nomenclature, which specifies names or classifying labels that are preferred because they are clear, standardized, and ontologically sound (e.g., taxonomy, chemical nomenclature, and gene nomenclature).
+
+
+== Updating ==
+Most style guides are revised periodically to accommodate changes in conventions and usage. The frequency of updating and the revision control are determined by the subject matter. For style manuals in reference work format, new editions typically appear every 1 to 20 years. For example, the AP Stylebook is revised annually, and the Chicago, APA, and ASA manuals are in their 17th, 6th, and 4th editions, respectively. Many house styles and individual project styles change more frequently, especially for new projects.
+
+
+== Examples ==
+
+
+=== International ===
+Several basic style guides for technical and scientific communication have been defined by international standards organizations. One example is ISO 215 Documentation — Presentation of contributions to periodicals and other serials.
+
+
+=== Europe ===
+The European Union publishes an Interinstitutional style guide—encompassing 24 languages across the European Union. This manual is "obligatory" for all those employed by the institutions of the EU who are involved in preparing EU documents and works. The Directorate-General for Translation of the European Commission publishes its own English Style Guide, intended primarily for English-language authors and translators, but aiming to serve a wider readership as well.
+
+
+=== Australia ===
+Style Manual: For Authors, Editors and Printers by Snooks & Co for the Department of Finance and Administration. 6th ed. ISBN 0-7016-3648-3.
+Australian Guide to Legal Citation
+Australian manual of scientific style (AMOSS) - online by Biotext; illustrated by Biotext. 1st ed. ISBN 978-0-9946369-0-4
+
+
+=== Canada ===
+General
+Public Works and Government Services Canada, Translation Bureau. The Canadian Style: A Guide to Writing and Editing. Rev. ed. Toronto: Dundurn Press, 1997. ISBN 1-55002-276-8.
+The Canadian Press Stylebook: A Guide for Writers and Editors, 14th ed. Toronto: Canadian Press, 2006. Guide to newspaper style in Canada. ISBN 0-920009-38-7.
+Lexicographical Centre for Canadian English A Dictionary of Canadianisms on Historical Principles: Dictionary of Canadian English Walter Spencer Avis (ed.) Toronto: W.J. Gage (1967) OCLC 301088035
+Editing Canadian English, 2nd ed. Prepared for the Editors' Association of Canada / Association canadienne des réviseurs by Catherine Cragg, Barbara Czarnecki, Iris Hossé Phillips, Katharine Vanderlinden, and Sheila Protti. Toronto, ON: Macfarlane Walter and Ross, 2000.
+Law
+McGill Law Journal. Canadian Guide to Uniform Legal Citation / Manuel canadien de la référence juridique. 8th ed. Toronto: Carswell, 2014.
+
+
+=== United Kingdom ===
+
+
+==== General ====
+Style, by F. L. Lucas, 1955; 3rd edition, Harriman House, 2012
+Butcher's Copy-editing: The Cambridge Handbook for Editors, Copy-editors and Proofreaders, Judith Butcher, Caroline Drake, Maureen Leach. 4th ed. 2006 Cambridge: Cambridge University Press ISBN 978-0521847131
+Fowler's Dictionary of Modern English Usage. Ed. Jeremy Butterfield. 4th ed. Oxford University Press, 2015. ISBN 978- 0-19-966135-0 (hardcover). Based on Fowler's Modern English Usage, by Henry Watson Fowler.
+The King's English, by Henry Watson Fowler and Francis George Fowler.
+New Hart's Rules 2005. (formerly republished as The Oxford Guide to Style, 2002).
+The Complete Plain Words, by Sir Ernest Gowers.
+MHRA Style Guide: A Handbook for Authors, Editors, and Writers of Theses, 2nd ed. London: Modern Humanities Research Association, 2008.
+The Oxford Style Manual. Edited by Robert Ritter. Oxford–New York: Oxford University Press, 2003 (republished as New Oxford Style Manual, 2012). Combines New Hart's Rules (2002) and The Oxford Dictionary for Writers and Editors (2000).
+Usage and Abusage, by Eric Partridge.
+
+
+==== Journalism ====
+The BBC News Style Guide: by the British Broadcasting Corporation.
+The Economist Style Guide: by The Economist (UK).
+The Guardian Style Guide: by The Guardian (United Kingdom).
+The Times Style and Usage Guide. Rev. ed. Compiled by Tim Austin. London: Times Books, 2003.
+
+
+=== United States ===
+In the United States, most public-facing corporate communication and journalism writing is written with styles following The Associated Press Stylebook. Book publishers and authors of journals requiring reference sections generally choose the Chicago Manual of Style, while scholarly writing often follows the MLA Style Manual and Guide to Scholarly Publishing. One of the most popular grammar guides used in third-person writing is The Elements of Style. The Associated Press Stylebook is written to be used together with The Elements of Style to provide a very complete grammar and English style reference with no conflicts.
+
+
+==== General ====
+The Careful Writer, by Theodore Bernstein.
+The Elements of Style, by William Strunk, Jr. and E. B. White. (Commonly called "Strunk and White")
+Style: Lessons in Clarity and Grace, by Joseph M. Williams
+The Well-Spoken Thesaurus, by Tom Heehler
+The Chicago Manual of Style, 17th ed. Chicago–London: University of Chicago Press, 2017.
+Merriam-Webster's Manual for Writers and Editors. By the editors of Merriam-Webster's Collegiate Dictionary. Springfield, Mass.: Merriam-Webster, 1998. (rev. ed. of Webster's Standard American Style Manual, 1985)
+The New York Public Library Writer's Guide to Style and Usage. New York: HarperCollins, 1994.
+William A. Sabin. The Gregg Reference Manual: A Manual of Style, Grammar, Usage, and Formatting, 10th ed. Boston: McGraw-Hill, 2005.
+Words into Type, 3rd ed. Based on studies by Marjorie E. Skillin, Robert M. Gay, and other authorities. Englewood Cliffs, NJ: Prentice Hall, 1974.
+
+
+==== Academic papers ====
+MLA Handbook for Writers of Research Papers, 8th ed. New York: Modern Language Association of America, 2016. (Commonly called "MLA style".)
+MLA Style Manual and Guide in Scholarly Publishing, 3rd ed. New York: Modern Language Association of America, 2008.
+William A. Sabin. The Gregg Reference Manual: A Manual of Style, Grammar, Usage, and Formatting. 10th ed. Boston: McGraw-Hill, 2005.
+Kate L. Turabian. A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers, 7th ed. Revised by Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, and University of Chicago Press editorial staff. Chicago: University of Chicago Press, 2007. (Commonly called "Turabian style".)
+Kate L. Turabian. Student's Guide to Writing College Papers, 4th ed. Revised by Gregory G. Colomb, Joseph M. Williams, and the University of Chicago Press editorial staff. Chicago: University of Chicago Press, 2010.
+
+
+==== Business ====
+The Business Style Handbook, An A-to-Z Guide for Effective Writing on the Job, by Helen Cunningham and Brenda Greene.
+The Wall Street Journal Guide to Business Style and Usage. Edited by Paul R. Martin. London: Free Press, 2002.
+
+
+==== Government ====
+The Complete Guide to Citing Government Information Resources: A Manual for Writers and Librarians. Rev. ed. Edited by Diane L. Garner and Diane H. Smith. Bethesda, MD: Congressional Information Service for the Government Documents Round Table, American Library Association, 1993.
+United States Government Printing Office Style Manual, 30th ed. Washington, D.C.: Government Printing Office, 2008.
+U.S. Geological Survey. Suggestions to Authors of the Reports of the United States Geological Survey, 7th ed. Revised and edited by Wallace R. Hansen. Washington, D.C.: Government Printing Office, 1991.
+
+
+==== Journalism ====
+The Associated Press Stylebook and Briefing on Media Law, 44th ed. Edited by Darrell Christian, Sally Jacobsen, and David Minthorn. New York: Associated Press, 2009.
+The New York Times Manual of Style and Usage. Rev. ed. Edited by Allan M. Siegal and William G. Connolly. New York: Three Rivers Press, 1999.
+
+
+==== Law ====
+ALWD Citation Manual: A Professional System of Citations, 3rd ed. Edited by the Association of Legal Writing Directors and Darby Dickerson. New York: Aspen, 2006.
+The Bluebook: A Uniform System of Citation, compiled by the Harvard Law Review Association, the Columbia Law Review, the University of Pennsylvania Law Review, and the Yale Law Journal. Legal writers in most law schools in the United States are trained using this.
+Brian A. Garner. The Elements of Legal Style, 2nd ed. New York: Oxford University Press, 2002.
+The University of Chicago Manual of Legal Citation, 2nd ed. Edited by the University of Chicago Law Review. 2000.
+Despite the near uniform use of the Bluebook, nearly every state has appellate court rules that specify citation methods and writing styles specific to that state - and the Supreme Court of the United States has its own citation method. However, in most cases these are derived from the Bluebook.
+There are also several other citation manuals available to legal writers in wide usage in the United States. Virtually all large law firms maintain their own citation manual and several major publishers of legal texts (West, Lexis-Nexis, Hein, et al.) maintain their own systems.
+
+
+==== Religion ====
+Catholic News Service. CNS Stylebook on Religion: Reference Guide and Usage Manual, 3rd ed. Washington, D.C.: Catholic News Service, 2006.
+The Little Style Guide to Great Christian Writing and Publishing, 13th ed. By Leonard G. Goss and Carolyn Stanford Goss. This popular guide provides a fresh understanding and distinctively Christian examination of style and language. It covers the basic rules of grammar, style, and editing, and is intended for writers and editors.
+The SBL Handbook of Style for Biblical Studies and Related Disciplines, 2nd ed. Edited by Patrick H. Alexander. Atlanta: SBL Press, 2014 (1st ed.: The SBL Handbook of Style: For Ancient Near Eastern, Biblical, and Early Christian Studies. Peabody, MA: Hendrickson, 1999). The industry standard.[1]
+Reporting on Religion 2: A Stylebook on Religion's Best Beat. Edited by Diane Connolly and Debra I. Mason. Westerville, OH: Religion Newswriters, 2007.
+
+
+==== Science ====
+
+
+===== Hard sciences =====
+AIP Style Manual, 4th ed. New York: American Institute of Physics, 1990.
+American Medical Association. AMA Manual of Style: A Guide for Authors and Editors, 10th ed. Edited by Cheryl Iverson. New York: Oxford University Press, 2007. Primarily used in medicine. (Commonly called "AMA style".)
+American Chemical Society (ACS). Primarily used for the physical sciences, such as physical chemistry, physics, and related disciplines. Commonly called "ACS style".
+The ACS Style Guide: Effective Communication of Scientific Information, 3rd ed. Edited by Anne M. Coghill and Lorrin R. Garson. Washington, D.C.: American Chemical Society, 2006; and
+ACS Style Guide: A Manual for Authors and Editors (1997).
+
+ASM Style Manual for Journals and Books. Washington, D.C.: American Society for Microbiology, 1991.
+Scientific Style and Format: The CSE Manual for Authors, Editors, and Publishers, 7th ed. Compiled by the Style Manual Committee of the Council of Science Editors. Reston, VA: Council of Science Editors in cooperation with the Rockefeller University Press, 2006. Used widely in the natural sciences, especially the life sciences. (Commonly called "CSE style".)
+
+
+===== Social sciences =====
+ASA. Style Guide. 5th ed. Washington, DC: American Sociological Association, 2014.
+Publication Manual of the American Psychological Association, 6th ed. Washington, D.C.: American Psychological Association, 2009. Primarily used in social sciences. (Commonly called "APA style".)
+Style Manual for Political Science, rev. ed. Washington, D.C.: American Political Science Association Committee on Publications, 2006.
+
+
+==== Web publishing ====
+Janice Walker and Todd Taylor. The Columbia Guide to Online Style, 2nd ed. New York: Columbia University Press, 2006.
+Microsoft Manual of Style by Microsoft Corporation.
+The Yahoo! Style Guide: The Ultimate Sourcebook for Writing, Editing and Creating Content for the Web, by Chris Barr and the Yahoo! Editorial Staff.
+Wikipedia Manual of Style
+Guidelines for citing web content also appear in comprehensive style guides such as Oxford/Hart, Chicago and MLA.
+
+
+== See also ==
+
+
+== References ==
+
+ISBN 978-0-8054-2787-5
+
+
+== External links ==
+But the stylebook says ...—Blog post about stylebook abuse, by Bill Walsh of The Washington Post
+Handouts about writing style guides, from a conference of the American Copy Editors Society in 2007
+William G. Connolly. "How to Write a Stylebook in 10 Easy Steps" (PDF). Archived from the original (PDF) on 2010-08-21. 
+Doug Kouma. "Creating an In-House Stylebook" (PDF). Meredith Special Interest Media. Archived from the original (PDF) on 2010-08-21. 
+
+Language Log » Searching 43 stylebooks

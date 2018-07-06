@@ -1,0 +1,80 @@
+The Eli and Edythe L. Broad Institute of MIT and Harvard (), often referred to as the Broad Institute, is a biomedical and genomic research center located in Cambridge, Massachusetts, United States. The institute is independently governed and supported as a 501(c)(3) nonprofit research organization under the name Broad Institute Inc., and is partners with Massachusetts Institute of Technology, Harvard University, and the five Harvard teaching hospitals.
+
+
+== History ==
+The Broad Institute evolved from a decade of research collaborations among MIT and Harvard scientists. One cornerstone was the Center for Genome Research of Whitehead Institute at MIT. Founded in 1982, the Whitehead became a major center for genomics and the Human Genome Project. As early as 1995, scientists at the Whitehead started pilot projects in genomic medicine, forming an unofficial collaborative network among young scientists interested in genomic approaches to cancer and human genetics. Another cornerstone was the Institute of Chemistry and Cell Biology established by Harvard Medical School in 1998 to pursue chemical genetics as an academic discipline. Its screening facility was one of the first high-throughput resources opened in an academic setting. It facilitated small molecule screening projects for more than 80 research groups worldwide.
+To create a new organization that was open, collaborative, cross-disciplinary and able to organize projects at any scale, planning took place in 2002–2003 among philanthropists Eli and Edythe Broad, MIT, the Whitehead Institute, Harvard and the Harvard-affiliated hospitals (in particular, the Beth Israel Deaconess Medical Center, Brigham and Women's Hospital, Children's Hospital Boston, the Dana-Farber Cancer Institute and the Massachusetts General Hospital).
+The Broads made a founding gift of $100 million and the Broad Institute was formally launched in May 2004. In November 2005, the Broads announced an additional $100 million gift to the Institute. On September 4, 2008, the Broads announced an endowment of $400 million to make the Broad Institute a permanent establishment. In November 2013, they invested an additional $100 million to fund a second decade of research at the institute.
+
+
+== Organizational structure ==
+The Broad Institute has 11 core faculty and 195 associate members from Harvard, MIT, and the Harvard-affiliated hospitals.
+The Broad Institute is made up of three types of organizational units: core member laboratories, research programs, and platforms. The institute's scientific research programs include:
+Cancer Program
+Program in Medical and Population Genetics
+Genome Biology and Cell Circuits Program
+Chemical Biology Program
+Metabolism Program
+Infectious Disease Program
+Stanley Center for Psychiatric Research at Broad Institute
+Genome Sequencing and Analysis Program
+Epigenomics Program
+Vertebrate Genomics Program
+The Broad Institute's platforms are teams of professional scientists who focus on the discovery, development, and optimization of the technological tools that Broad and other researchers use to conduct research. The platforms include:
+Genomics Platform
+Imaging Platform
+Metabolite Profiling Platform
+Proteomics Platform
+Genetic Perturbation Platform
+Therapeutics Platform
+Broad Technology Laboratories
+Therapeutics Projects Group
+The Broad Institute also supports the Data Visualization Initiative led by the Institute creative director Bang Wong, which is aimed at developing data visualizations to explore and communicate research findings.
+
+
+== Core members ==
+The faculty and staff of the Broad Institute include physicians, geneticists, and molecular, chemical, and computational biologists. The faculty currently includes 11 Core Members, whose labs are primarily located within the Broad Institute, and 195 Associate Members, whose primary labs are located at one of the universities or hospitals.
+The Core Members of the Broad Institute include:
+Paul Blainey is an expert in microfluidic systems to study single molecules and cells; one of the main aims of his lab is to make single-cell analysis routine.
+Todd Golub, a physician-researcher, is director of the cancer program. He applies genomic tools to the classification and study of cancers.
+Myriam Heiman combines genetics, biochemistry, and cell biology to study the features that define different types of neurons and their vulnerability to disease.
+Deborah Hung is a chemical biologist and an infectious disease physician who studies the interactions between pathogens and their hosts, with the goal of discovering new antibiotic targets.
+Steven Hyman is the director of the Stanley Center for Psychiatric Research.
+Eric Lander is the director of the Broad Institute. A geneticist, molecular biologist and mathematician, Lander has been a driving force in the development of genomics and a prominent leader of the Human Genome Project.
+David R. Liu is a chemist and a chemical biologist, the Director of the Merkin Institute, the inventor of DNA-templated synthesis, phage-assisted directed evolution and Cas9/CRISPR base-editing.
+Aviv Regev is a computational biologist with interests in biological networks, gene regulation and evolution.
+Stuart Schreiber is director of the Chemical Biology program. He has developed systematic ways to explore biology, especially disease biology, using small molecules toward the development of therapeutic drugs.
+Edward Scolnick is the former President of Merck Research Laboratories, former Director and current Chief Scientist of the Stanley Center for Psychiatric Research.
+Feng Zhang is an assistant professor at MIT who developed optogenetics and genome editing (CRISPR) technologies.
+
+
+== Facilities ==
+The Broad Institute's facilities at 320 Charles Street in Cambridge, Massachusetts, house one of the largest genome sequencing centers in the world. As WICGR (Whitehead Institute/MIT Center for Genome Research), this facility was the largest contributor of sequence information to the Human Genome Project.
+In February 2006, The Broad Institute expanded to a new building at 415 Main Street, adjacent to the Whitehead Institute for Biomedical Research. This seven-story 231,000-square-foot (21,500 m2) building contains office, research laboratory, retail and museum space. In 2011, the institute announced plans to construct an additional tower adjacent to the 415 Main Street site at 75 Ames Street. On May 21, 2014, the Broad officially inaugurated a 375,000-square-foot research building at 75 Ames Street in Cambridge’s Kendall Square. The new facility has 15 floors, 11 of which are occupied, and has LEED gold certification. As of July 2014, it has around 800 occupants.
+
+
+== Funding ==
+Between 2009 and 2012, the operating revenue of the institute was approximately $200 million, with 55% of that coming from federal grants. The Broad Foundation (Eli and Edythe Broad) has provided $700 million in funding to the Broad Institute as of February 2014.
+The Klarman Family Foundation provided a $32.5 million grant to Broad to study cellular processes in 2012. In October 2013, Fundación Carlos Slim (the Carlos Slim Foundation) of Mexico announced a $74 million grant to Broad Institute for the SIGMA2 consortium.
+In July 2014, coinciding with the publication of a new study on the genetics of schizophrenia, the Broad Institute received a $650 million gift from the Stanley Family Foundation, one of the largest private gifts ever for scientific research.
+On October 10, 2017, it was reported that Deerfield Management Co. was giving $50 million to the Broad Institute of MIT and Harvard to support biology research.
+
+
+== Honors ==
+Since 2010, the Broad Institute has been listed on the Boston Globe's Top Places to Work. The 2014 report from Thomson Reuters' ScienceWatch entitled "The World's Most Influential Scientific Minds" recognized that 12 out of the 17 "hottest" researchers in science belonged to genomics, and 4 out of the top 5 were affiliated with the Broad Institute. Additionally, Stacey B. Gabriel of the Broad Institute topped this entire list. Twenty-eight researchers from Broad Institute have been recognized on ISI's Highly Cited, a database that recognizes the top 250 researchers in multiple areas of science.
+Eric S. Lander, Stuart L. Schreiber and Edward M. Scolnick are members of the National Academy of Sciences and the Institute of Medicine. David Altshuler is a member of the Institute of Medicine. Feng Zhang received the 2014 Alan T. Waterman Award from the National Science Foundation, its highest honor that annually recognizes an outstanding researcher under the age of 35, for contributions to both optogenetics and CRISPR technology.
+In biochemistry, genetics, and molecular biology areas, the institute was ranked #1 in the "Mapping Excellence" report, a survey that assessed high-impact publications.
+For its architecture, Broad's 415 Main Street building architects Elkus Manfredi Architects of Boston and AHSC McLellan Copenhagen of San Francisco received high honors in the 2007 Laboratory of the Year competition of the R&D Magazine.
+
+
+== References ==
+
+
+== Further reading ==
+commentary on the Broad Institute's website, receiving a 4-star excellent ratingKevin Ahern, Ph.D. (2009). "GEN Best of the Web". Genetic Engineering & Biotechnology News. 29 (8): 66. 
+
+
+== External links ==
+Official website of the Broad Institute
+Broad iBridge Page
+Broad Technologies
