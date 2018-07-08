@@ -32,23 +32,7 @@ sys.path.append(os.path.realpath(os.getcwd()))
 stopword = set(stopwords.words('english'))
 
 
-def CheckModel():
-    print("initialize")
-    my_file = Path("model1/glove-wiki-gigaword-200")
-    if my_file.is_file():
-        print("File is present")
-        filepath = os.getcwd() + "/model/glove-wiki-gigaword-200"
-        model = KeyedVectors.load(filepath)
-    else:
-        print("Downloading file")
-        info = api.info()
-        model = api.load("glove-wiki-gigaword-200")
-        filepath=os.getcwd() + "/model1/glove-wiki-gigaword-200"
-        model.save(filepath)
-        print("Downloading complete")
 
-
-    return
 
 def getIDF(TrainingSet):
     whWords = set(['what', 'when', 'where', 'which', 'who', 'whom', 'whose', 'why', 'how'])
@@ -145,7 +129,7 @@ def Data_Cleaner(sentence_text):
     return words
 filepath=os.getcwd()+"/model/glove-wiki-gigaword-200"
 
-model=KeyedVectors.load(filepath)
+
 #model=Word2Vec.load("model/SoftModel_w2v2")
 
 def evaluate(utterance):
@@ -154,7 +138,7 @@ def evaluate(utterance):
     for row in list(zip(TrainingSet.Question, TrainingSet.Answer)):                    # for row in TrainingSet.Question:
         sentence = row[0]  + " " + row[1]
         x =wordvec.Data_Cleaner(sentence)
-        score = model.wmdistance(x, query)
+        score = wordvec.model.wmdistance(x, query)
         scores.append(score)
 
     index = scores.index(np.min(scores))
@@ -303,4 +287,3 @@ def evaluateBatchQuestion():
 # #evaluateCorrectAnswers()
 # print("------BatchTesting Ends------")
 
-CheckModel()

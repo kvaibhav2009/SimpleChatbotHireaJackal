@@ -26,12 +26,11 @@ def getAnswer():
     # result.Answer
 
     jsondata = {
-        'request-type': 'ingest_data',
         'response': {
-            "query": "reviews_file_path",
-            "answer 1": [str(result.Answer[0]),str((1-float(result.Score[0]))*100)],
-            "answer 2": [str(result.Answer[1]),str((1-float(result.Score[1]))*100)],
-            "answer 3": [str(result.Answer[2]),str((1-float(result.Score[2]))*100)]
+            "query": query,
+            "answer 1": [str(result.Answer[0]),str(100-(float(result.Score[0]))*10)],
+            "answer 2": [str(result.Answer[1]),str(100-(float(result.Score[1]))*10)],
+            "answer 3": [str(result.Answer[2]),str(100-(float(result.Score[2]))*10)]
 
         }
     }

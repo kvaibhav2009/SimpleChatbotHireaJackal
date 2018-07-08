@@ -5,14 +5,34 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import sent_tokenize
+import gensim.downloader as api
 from gensim.models import KeyedVectors
 import re
-
+from pathlib import Path
+import os
 
 
 stops = set(stopwords.words("english"))
 whWords=set(['what', 'when', 'where', 'which', 'who', 'whom', 'whose', 'why', 'how'])
 stops=stops-whWords
+
+def CheckModel():
+    print("initialize")
+    my_file = Path("model1/glove-wiki-gigaword-200")
+    if my_file.is_file():
+        print("File is present")
+        filepath = os.getcwd() + "/model1/glove-wiki-gigaword-200"
+        model = KeyedVectors.load(filepath)
+    else:
+        print("Downloading file")
+        info = api.info()
+        model = api.load("glove-wiki-gigaword-200")
+        filepath=os.getcwd() + "/model1/glove-wiki-gigaword-200"
+        model.save(filepath)
+        print("Downloading complete")
+
+
+    return model
 
 def Data_Cleaner(sentence_text):
     sentence_text=re.sub('[/?]+',' ',sentence_text)
@@ -47,7 +67,7 @@ def Data_Cleaner(sentence_text):
 #model=Word2Vec.load("/Users/vaibhavkotwal/PycharmProjects/ConversationalBankingClassifier/updatedInsurance_word2vec_v3_18650_tri1")  # "model_W2V")
 #model=Word2Vec.load("model/SoftModel_w2v2")
 #model=Word2Vec.load("model/glove-wiki-gigaword-200")
-model=KeyedVectors.load("model/glove-wiki-gigaword-200")
+
 def vectorize_question(utterence,IDFset):
     vec = np.zeros(model.wv.syn0.shape[1]).reshape((1, model.wv.syn0.shape[1]))
     words = Data_Cleaner(utterence)
@@ -103,6 +123,7 @@ def vectorize_query(utterence,IDFset):
 
     return vec
 
+model=CheckModel()
 
 # vector=[]
 # for x in IDFset.keys():
